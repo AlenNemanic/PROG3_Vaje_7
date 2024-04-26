@@ -57,8 +57,10 @@
             this.cena.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cena.Location = new System.Drawing.Point(232, 66);
             this.cena.Name = "cena";
+            this.cena.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.cena.Size = new System.Drawing.Size(176, 38);
             this.cena.TabIndex = 1;
+            this.cena.Text = "0";
             // 
             // euro_simbol
             // 
@@ -158,7 +160,7 @@
             // 
             this.nova_cena_euro_simbol.AutoSize = true;
             this.nova_cena_euro_simbol.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.nova_cena_euro_simbol.Location = new System.Drawing.Point(304, 301);
+            this.nova_cena_euro_simbol.Location = new System.Drawing.Point(352, 301);
             this.nova_cena_euro_simbol.Name = "nova_cena_euro_simbol";
             this.nova_cena_euro_simbol.Size = new System.Drawing.Size(29, 31);
             this.nova_cena_euro_simbol.TabIndex = 11;

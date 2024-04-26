@@ -41,7 +41,7 @@
             this.stevec_klikov.Size = new System.Drawing.Size(372, 63);
             this.stevec_klikov.TabIndex = 0;
             this.stevec_klikov.Text = "Števec klikov:";
-            this.stevec_klikov.Click += new System.EventHandler(this.stevec_klikob_Click);
+            this.stevec_klikov.Click += new System.EventHandler(this.stevec_klikov_Click);
             // 
             // st_klikov
             // 
@@ -52,7 +52,7 @@
             this.st_klikov.Size = new System.Drawing.Size(58, 63);
             this.st_klikov.TabIndex = 1;
             this.st_klikov.Text = "0";
-            this.st_klikov.Click += new System.EventHandler(this.label1_Click);
+            this.st_klikov.Click += new System.EventHandler(this.st_klikov_Click);
             // 
             // Form1
             // 

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{ED0455A8-0A44-489E-9D60-F287A370A99F}</ProjectGuid>
+    <ProjectGuid>{2DBDA92C-EFE1-4E6D-9134-1436FB9CFDEA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Izmenjava_barv</RootNamespace>
-    <AssemblyName>Izmenjava barv</AssemblyName>
+    <RootNamespace>Odstevalnik</RootNamespace>
+    <AssemblyName>Odstevalnik</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{ED0455A8-0A44-489E-9D60-F287A370A99F}</ProjectGuid>
+    <ProjectGuid>{094B797F-E1DC-4F35-8C26-98C8753EE0BC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Izmenjava_barv</RootNamespace>
-    <AssemblyName>Izmenjava barv</AssemblyName>
+    <RootNamespace>Vlak_prihaja</RootNamespace>
+    <AssemblyName>Vlak prihaja</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

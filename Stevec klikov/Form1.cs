@@ -15,12 +15,12 @@ namespace Stevec_klikov
             st_klikov.Text = int.Parse(st_klikov.Text) + 1 + "";
         }
 
-        private void stevec_klikob_Click(object sender, EventArgs e)
+        private void stevec_klikov_Click(object sender, EventArgs e)
         {
             Povecaj_st_klikov();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void st_klikov_Click(object sender, EventArgs e)
         {
             Povecaj_st_klikov();
         }
