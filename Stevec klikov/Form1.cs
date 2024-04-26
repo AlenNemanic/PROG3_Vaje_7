@@ -12,7 +12,8 @@ namespace Stevec_klikov
 
         private void Povecaj_st_klikov()
         {
-            st_klikov.Text = int.Parse(st_klikov.Text) + 1 + "";
+            string[] niz_in_st_klikov = stevec_klikov.Text.Split(new string[] {": "}, StringSplitOptions.None);
+            stevec_klikov.Text = niz_in_st_klikov[0] + ": " + (int.Parse(niz_in_st_klikov[1]) + 1);
         }
 
         private void stevec_klikov_Click(object sender, EventArgs e)
