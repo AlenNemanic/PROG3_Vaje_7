@@ -33,9 +33,9 @@ namespace Vozeca_ploscad
         {
             if (giblje_desno && ploscad.Right + PREMIK < 300)
                 ploscad.Left += PREMIK;
-            else if (!giblje_desno && ploscad.Left + PREMIK > 10)
+            else if (!giblje_desno && ploscad.Left - PREMIK > 10)
                 ploscad.Left -= PREMIK;
-            else if ((giblje_desno && ploscad.Right + PREMIK >= 300) || (!giblje_desno && ploscad.Left + PREMIK <= 10))
+            else if ((giblje_desno && ploscad.Right + PREMIK >= 300) || (!giblje_desno && ploscad.Left - PREMIK <= 10))
                 giblje_desno = !giblje_desno;
         }
     }
