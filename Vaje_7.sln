@@ -29,10 +29,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odstevalnik", "Odstevalnik\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlak prihaja", "Vlak prihaja\Vlak prihaja.csproj", "{094B797F-E1DC-4F35-8C26-98C8753EE0BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vozeca_ploscad_nadgradnja", "Vozeca_ploscad_nadgradnja\Vozeca_ploscad_nadgradnja.csproj", "{FB3AEFFF-6ABD-47CD-8997-473795DF70C2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Izmenjava_barv_nadgradnja", "Izmenjava_barv_nadgradnja\Izmenjava_barv_nadgradnja.csproj", "{CA4865AE-5A86-4A02-BC90-650803667B09}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,14 +87,6 @@ Global
 		{094B797F-E1DC-4F35-8C26-98C8753EE0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{094B797F-E1DC-4F35-8C26-98C8753EE0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{094B797F-E1DC-4F35-8C26-98C8753EE0BC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FB3AEFFF-6ABD-47CD-8997-473795DF70C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FB3AEFFF-6ABD-47CD-8997-473795DF70C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FB3AEFFF-6ABD-47CD-8997-473795DF70C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FB3AEFFF-6ABD-47CD-8997-473795DF70C2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CA4865AE-5A86-4A02-BC90-650803667B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA4865AE-5A86-4A02-BC90-650803667B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA4865AE-5A86-4A02-BC90-650803667B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CA4865AE-5A86-4A02-BC90-650803667B09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

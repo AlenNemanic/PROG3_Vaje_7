@@ -45,7 +45,7 @@
             this.Gumb.TabIndex = 0;
             this.Gumb.Text = "Ustavi";
             this.Gumb.UseVisualStyleBackColor = true;
-            this.Gumb.Click += new System.EventHandler(this.button_Click);
+            this.Gumb.Click += new System.EventHandler(this.Gumb_Click);
             // 
             // label
             // 

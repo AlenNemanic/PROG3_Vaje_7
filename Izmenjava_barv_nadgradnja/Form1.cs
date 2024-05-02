@@ -18,7 +18,7 @@ namespace Izmenjava_barv_nadgradnja
             InitializeComponent();
         }
 
-        private void button_Click(object sender, EventArgs e)
+        private void Gumb_Click(object sender, EventArgs e)
         {
             aktivno = !aktivno;
             if (aktivno)
